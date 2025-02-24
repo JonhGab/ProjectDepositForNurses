@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaog\\source\\repos\\SenacNurse\u0027sProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF22E98B-3C6E-469E-9E29-E5151B44FA3F}|SenacNurse\u0027sProject\\SenacNurse\u0027sProject.csproj|c:\\users\\joaog\\source\\repos\\senacnurse\u0027sproject\\senacnurse\u0027sproject\\removeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF22E98B-3C6E-469E-9E29-E5151B44FA3F}|SenacNurse\u0027sProject\\SenacNurse\u0027sProject.csproj|solutionrelative:senacnurse\u0027sproject\\removeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF22E98B-3C6E-469E-9E29-E5151B44FA3F}|SenacNurse\u0027sProject\\SenacNurse\u0027sProject.csproj|C:\\Users\\joaog\\source\\repos\\SenacNurse\u0027sProject\\senacnurse\u0027sproject\\addtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF22E98B-3C6E-469E-9E29-E5151B44FA3F}|SenacNurse\u0027sProject\\SenacNurse\u0027sProject.csproj|solutionrelative:senacnurse\u0027sproject\\addtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF22E98B-3C6E-469E-9E29-E5151B44FA3F}|SenacNurse\u0027sProject\\SenacNurse\u0027sProject.csproj|C:\\Users\\joaog\\source\\repos\\SenacNurse\u0027sProject\\senacnurse\u0027sproject\\removeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF22E98B-3C6E-469E-9E29-E5151B44FA3F}|SenacNurse\u0027sProject\\SenacNurse\u0027sProject.csproj|solutionrelative:senacnurse\u0027sproject\\removeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF22E98B-3C6E-469E-9E29-E5151B44FA3F}|SenacNurse\u0027sProject\\SenacNurse\u0027sProject.csproj|C:\\Users\\joaog\\source\\repos\\SenacNurse\u0027sProject\\senacnurse\u0027sproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF22E98B-3C6E-469E-9E29-E5151B44FA3F}|SenacNurse\u0027sProject\\SenacNurse\u0027sProject.csproj|solutionrelative:senacnurse\u0027sproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF22E98B-3C6E-469E-9E29-E5151B44FA3F}|SenacNurse\u0027sProject\\SenacNurse\u0027sProject.csproj|C:\\Users\\joaog\\source\\repos\\SenacNurse\u0027sProject\\senacnurse\u0027sproject\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF22E98B-3C6E-469E-9E29-E5151B44FA3F}|SenacNurse\u0027sProject\\SenacNurse\u0027sProject.csproj|solutionrelative:senacnurse\u0027sproject\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF22E98B-3C6E-469E-9E29-E5151B44FA3F}|SenacNurse\u0027sProject\\SenacNurse\u0027sProject.csproj|C:\\Users\\joaog\\source\\repos\\SenacNurse\u0027sProject\\senacnurse\u0027sproject\\addtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF22E98B-3C6E-469E-9E29-E5151B44FA3F}|SenacNurse\u0027sProject\\SenacNurse\u0027sProject.csproj|solutionrelative:senacnurse\u0027sproject\\addtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF22E98B-3C6E-469E-9E29-E5151B44FA3F}|SenacNurse\u0027sProject\\SenacNurse\u0027sProject.csproj|C:\\Users\\joaog\\source\\repos\\SenacNurse\u0027sProject\\senacnurse\u0027sproject\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF22E98B-3C6E-469E-9E29-E5151B44FA3F}|SenacNurse\u0027sProject\\SenacNurse\u0027sProject.csproj|solutionrelative:senacnurse\u0027sproject\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RemoveItem.cs",
+              "DocumentMoniker": "C:\\Users\\joaog\\source\\repos\\SenacNurse\u0027sProject\\SenacNurse\u0027sProject\\RemoveItem.cs",
+              "RelativeDocumentMoniker": "SenacNurse\u0027sProject\\RemoveItem.cs",
+              "ToolTip": "C:\\Users\\joaog\\source\\repos\\SenacNurse\u0027sProject\\SenacNurse\u0027sProject\\RemoveItem.cs",
+              "RelativeToolTip": "SenacNurse\u0027sProject\\RemoveItem.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:01:24.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RemoveItem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\joaog\\source\\repos\\SenacNurse\u0027sProject\\SenacNurse\u0027sProject\\RemoveItem.cs",
+              "RelativeDocumentMoniker": "SenacNurse\u0027sProject\\RemoveItem.cs",
+              "ToolTip": "C:\\Users\\joaog\\source\\repos\\SenacNurse\u0027sProject\\SenacNurse\u0027sProject\\RemoveItem.cs [Design]",
+              "RelativeToolTip": "SenacNurse\u0027sProject\\RemoveItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:01:23.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddTable.cs",
+              "DocumentMoniker": "C:\\Users\\joaog\\source\\repos\\SenacNurse\u0027sProject\\SenacNurse\u0027sProject\\AddTable.cs",
+              "RelativeDocumentMoniker": "SenacNurse\u0027sProject\\AddTable.cs",
+              "ToolTip": "C:\\Users\\joaog\\source\\repos\\SenacNurse\u0027sProject\\SenacNurse\u0027sProject\\AddTable.cs",
+              "RelativeToolTip": "SenacNurse\u0027sProject\\AddTable.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwB0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:43:23.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddTable.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\joaog\\source\\repos\\SenacNurse\u0027sProject\\SenacNurse\u0027sProject\\AddTable.cs",
+              "RelativeDocumentMoniker": "SenacNurse\u0027sProject\\AddTable.cs",
+              "ToolTip": "C:\\Users\\joaog\\source\\repos\\SenacNurse\u0027sProject\\SenacNurse\u0027sProject\\AddTable.cs [Design]",
+              "RelativeToolTip": "SenacNurse\u0027sProject\\AddTable.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:43:19.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cs",
+              "DocumentMoniker": "C:\\Users\\joaog\\source\\repos\\SenacNurse\u0027sProject\\SenacNurse\u0027sProject\\Edit.cs",
+              "RelativeDocumentMoniker": "SenacNurse\u0027sProject\\Edit.cs",
+              "ToolTip": "C:\\Users\\joaog\\source\\repos\\SenacNurse\u0027sProject\\SenacNurse\u0027sProject\\Edit.cs",
+              "RelativeToolTip": "SenacNurse\u0027sProject\\Edit.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:37:07.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\joaog\\source\\repos\\SenacNurse\u0027sProject\\SenacNurse\u0027sProject\\Edit.cs",
+              "RelativeDocumentMoniker": "SenacNurse\u0027sProject\\Edit.cs",
+              "ToolTip": "C:\\Users\\joaog\\source\\repos\\SenacNurse\u0027sProject\\SenacNurse\u0027sProject\\Edit.cs [Design]",
+              "RelativeToolTip": "SenacNurse\u0027sProject\\Edit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:30:24.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaog\\source\\repos\\SenacNurse\u0027sProject\\SenacNurse\u0027sProject\\Program.cs",
+              "RelativeDocumentMoniker": "SenacNurse\u0027sProject\\Program.cs",
+              "ToolTip": "C:\\Users\\joaog\\source\\repos\\SenacNurse\u0027sProject\\SenacNurse\u0027sProject\\Program.cs",
+              "RelativeToolTip": "SenacNurse\u0027sProject\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T16:50:09.409Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
