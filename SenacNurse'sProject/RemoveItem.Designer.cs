@@ -1,4 +1,6 @@
-﻿namespace SenacNurse_sProject
+﻿using System.Windows.Forms;
+
+namespace SenacNurse_sProject
 {
     partial class RemoveItem
     {
@@ -36,8 +38,12 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.DataGridViewUse = new System.Windows.Forms.DataGridView();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.DataGridViewUse)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
@@ -72,13 +78,16 @@
             this.QuantityTextBox.Name = "QuantityTextBox";
             this.QuantityTextBox.Size = new System.Drawing.Size(246, 22);
             this.QuantityTextBox.TabIndex = 2;
+            this.QuantityTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TextBox1_KeyPress);
             // 
             // IDTextBox
             // 
+            this.IDTextBox.AccessibleRole = System.Windows.Forms.AccessibleRole.TitleBar;
             this.IDTextBox.Location = new System.Drawing.Point(75, 191);
             this.IDTextBox.Name = "IDTextBox";
             this.IDTextBox.Size = new System.Drawing.Size(246, 22);
             this.IDTextBox.TabIndex = 2;
+            this.IDTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TextBox1_KeyPress);
             // 
             // panel2
             // 
@@ -119,11 +128,33 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "ID do item";
             // 
+            // dataGridView1
+            // 
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(552, 135);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.RowHeadersWidth = 51;
+            this.dataGridView1.RowTemplate.Height = 24;
+            this.dataGridView1.Size = new System.Drawing.Size(240, 150);
+            this.dataGridView1.TabIndex = 1;
+            // 
+            // DataGridViewUse
+            // 
+            this.DataGridViewUse.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.DataGridViewUse.Location = new System.Drawing.Point(389, 102);
+            this.DataGridViewUse.Name = "DataGridViewUse";
+            this.DataGridViewUse.RowHeadersWidth = 51;
+            this.DataGridViewUse.RowTemplate.Height = 24;
+            this.DataGridViewUse.Size = new System.Drawing.Size(487, 356);
+            this.DataGridViewUse.TabIndex = 2;
+            // 
             // RemoveItem
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(381, 495);
+            this.ClientSize = new System.Drawing.Size(888, 495);
+            this.Controls.Add(this.DataGridViewUse);
+            this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.panel1);
             this.Name = "RemoveItem";
             this.Text = "RemoveItem";
@@ -131,6 +162,8 @@
             this.panel1.PerformLayout();
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.DataGridViewUse)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -145,5 +178,7 @@
         private System.Windows.Forms.TextBox IDTextBox;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.TextBox QuantityTextBox;
+        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridView DataGridViewUse;
     }
 }
